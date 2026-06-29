@@ -20,7 +20,7 @@ import plotly.graph_objects as go
 # CONFIGURATION
 # ============================================================================
 
-APP_NM_RED = "#CC0000"
+NM_RED = "#CC0000"
 NM_YELLOW = "#FFD700"
 NM_DARK_RED = "#990000"
 NM_SAND = "#F5E6CC"
